@@ -1,7 +1,13 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Unit testing with React Testing Library and Typescript.
+This project is a simple accordion react component, made with the purpose of learning how to test using vitest.
+In src > components, you'll find an Accordion.tsx file and an Accordion.test.tsx file. 
 
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
